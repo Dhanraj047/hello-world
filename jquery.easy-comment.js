@@ -127,7 +127,6 @@ EasyComment.prototype.addCmtForm = function(){
             this._getFormFields(),
                      
             '<div style="text-align:right;position:relative;">',
-            '<div style="position:absolute;left:0px;bottom:0px;color:#444488;font:11px arial;">Powered by <a href="http://www.jswidget.com/lab/easy-comment.html" target="_blank">EasyComment</a></div>',
             '<button name="submit">Submit</button>&nbsp;&nbsp;&nbsp;',
             '</div>',
             '</fieldset>',
